@@ -1,0 +1,4 @@
+css: >
+  div{margin: 25px 100px;}
+  h3{font-family: Monaco, Consolas, "Lucida Console", monospace; text-align: center; font-size: 15px; padding-top: 15px;}
+  hr{border: 0; border-bottom: 1px dashed #ccc; background: #999;}
